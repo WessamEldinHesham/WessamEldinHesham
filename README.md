@@ -15,10 +15,10 @@ Most of my production work lives in private company repositories, so this profil
 
 ## Tech
 
-**Frontend:** React.js, TypeScript, JavaScript, HTML, CSS  
+**Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3  
 **State & Data:** TanStack Query, Context API, REST APIs  
-**UI:** Ant Design, Tailwind CSS, Storybook  
-**Tooling:** Nx, Git, Vite, Webpack  
+**UI & Design Systems:** Ant Design, Tailwind CSS, Storybook  
+**Architecture & Tooling:** Nx, Git, Vite, Webpack  
 **Testing:** Jest, React Testing Library
 
 ## Currently
@@ -29,7 +29,8 @@ Most of my production work lives in private company repositories, so this profil
 
 ## Coming next
 
-I'm currently working toward building stronger public projects that better represent my engineering experience.
+I'm working toward building stronger public projects that better represent my engineering experience.
 
-📍 Cairo, Egypt  
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/wessam-eldin-hesham-72bb60189)
